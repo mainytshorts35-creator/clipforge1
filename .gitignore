@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+clipforge_data/
+*.mp4
+*.mp3
+*.wav
+*.srt

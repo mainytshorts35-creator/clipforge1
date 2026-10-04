@@ -1,0 +1,7 @@
+streamlit>=1.36
+edge-tts>=6.1
+yt-dlp
+faster-whisper
+pillow
+numpy
+scipy
