@@ -1,7 +1,8 @@
 streamlit>=1.36
 edge-tts>=6.1
 yt-dlp
-faster-whisper
+faster-whisper==1.2.1
+av==18.1.0
 pillow
 numpy
 scipy
